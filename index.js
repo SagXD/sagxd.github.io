@@ -1,1 +1,1 @@
-new cursoreffects.ghostCursor();
+new cursoreffects.followingDotCursor();
