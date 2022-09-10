@@ -1,1 +1,1 @@
-new cursoreffects.followingDotCursor();
+new cursoreffects.bubbleCursor();
