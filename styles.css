@@ -50,6 +50,6 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: rgba(255, 255, 255, 0.712);
   background-color: white;
 }
