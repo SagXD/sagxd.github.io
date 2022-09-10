@@ -46,7 +46,7 @@ a {
   text-decoration: none;
 
   color: rgb(255, 255, 255);
-  transition: color 1s;
+  transition: color 0s;
 }
 
 a:hover {
