@@ -53,3 +53,11 @@ a:hover {
   color: rgb(0, 0, 0);
   background-color: rgba(255, 255, 255, 0.719);
 }
+
+
+.other {
+  text-align: center;
+
+  padding: 25px;
+  font-size: 16px;
+}
