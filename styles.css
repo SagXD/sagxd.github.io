@@ -98,7 +98,7 @@ a:hover {
 .other {
   text-align: center;
 
-  
+  padding: 30px;
   font-size: 25px;
   animation: colorRotate 6s linear 0s infinite;
 }
