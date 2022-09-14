@@ -23,8 +23,7 @@ body {
 
   padding: 30px;
   font-size: 38px;
-  filter: blur(1px);
-  font-weight: 100;
+  
   
                animation: colorRotate 6s linear 0s infinite;
               }
