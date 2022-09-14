@@ -23,6 +23,7 @@ body {
 
   padding: 30px;
   font-size: 28px;
+  filter: blur(1px);
 }
 
 .links {
