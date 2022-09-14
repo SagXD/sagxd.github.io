@@ -24,6 +24,12 @@ body {
   padding: 30px;
   font-size: 28px;
   filter: blur(1px);
+  font-weight: 100;
+  text-shadow: 0 0 10 rgba(255, 255, 255,1),
+               0 0 10 rgba(255, 255, 255,1),
+               0 0 10 rgba(255, 255, 255,1),
+               0 0 10 rgba(255, 255, 255,1),
+               0 0 10 rgba(255, 255, 255,1);
 }
 
 .links {
