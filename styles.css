@@ -25,11 +25,7 @@ body {
   font-size: 38px;
   filter: blur(1px);
   font-weight: 100;
-  text-shadow: 0 0 10 rgba(255, 255, 255,1),
-               0 0 20 rgba(255, 255, 255,1),
-               0 0 60 rgba(255, 255, 255,1),
-               0 0 100 rgba(255, 255, 255,1),
-               0 0 160 rgba(255, 255, 255,1);
+  
                animation: colorRotate 6s linear 0s infinite;
               }
               
