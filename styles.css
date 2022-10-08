@@ -30,19 +30,22 @@ body {
               
               @keyframes colorRotate {
                 from {
-                  color: #6666ff;
+                  color: #ff0062;
                 }
                 10% {
-                  color: #0099ff;
+                  color: #ffd000;
                 }
                 50% {
-                  color: #00ff00;
+                  color: #51ff00;
                 }
                 75% {
-                  color: #ff3399;
+                  color: #0011ff;
+                }
+                85% {
+                  color: #b700ff;
                 }
                 100% {
-                  color: #6666ff;
+                  color: #ff00bf;
                 }
               }
 
@@ -66,7 +69,7 @@ body {
 
 @keyframes colorRotate {
   from {
-    color: #ff0000;
+    color: #ff0062;
   }
   10% {
     color: #ffd000;
@@ -88,7 +91,7 @@ body {
 a {
   text-decoration: none;
 
-  color: rgb(255, 255, 255);
+  color: rgb(216, 160, 160);
   transition: color 0s;
 }
 
@@ -109,7 +112,7 @@ a:focus {
 
 @keyframes colorRotate {
   from {
-    color: #ff0000;
+    color: #ff0062;
   }
   10% {
     color: #ffd000;
