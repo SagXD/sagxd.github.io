@@ -89,9 +89,10 @@ a {
   transition: color 0s;
 }
 
-a:hover {
-  color: rgb(0, 0, 0);
-  background-color: rgba(255, 255, 255, 0.719);
+a:hover,
+a:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em)
 }
 
 
@@ -105,18 +106,18 @@ a:hover {
 
 @keyframes colorRotate {
   from {
-    color: #6666ff;
+    color: #ff0000;
   }
   10% {
-    color: #0099ff;
+    color: #ffd000;
   }
   50% {
-    color: #00ff00;
+    color: #51ff00;
   }
   75% {
-    color: #ff3399;
+    color: #0011ff;
   }
   100% {
-    color: #6666ff;
+    color: #b700ff;
   }
 }
