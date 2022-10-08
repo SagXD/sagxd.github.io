@@ -77,8 +77,11 @@ body {
   75% {
     color: #0011ff;
   }
-  100% {
+  85% {
     color: #b700ff;
+  }
+  100% {
+    color: #ff00bf;
   }
 }
 
@@ -117,7 +120,10 @@ a:focus {
   75% {
     color: #0011ff;
   }
-  100% {
+  85% {
     color: #b700ff;
+  }
+  100% {
+    color: #ff00bf;
   }
 }
