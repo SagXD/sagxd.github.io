@@ -1,1 +1,0 @@
-new cursoreffects.bubbleCursor();
