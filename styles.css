@@ -30,22 +30,22 @@ body {
               
               @keyframes colorRotate {
                 from {
-                  color: #ff0062;
+                  color: #FF0000;
                 }
-                10% {
-                  color: #ffd000;
+                20% 
+                  color: #FF8000;
                 }
-                50% {
-                  color: #51ff00;
+                40% 
+                  color: #FFFF00;
                 }
-                75% {
-                  color: #0011ff;
+                60% 
+                  color: #0000FF;
                 }
-                85% {
-                  color: #b700ff;
+                80% 
+                  color: #7F00FF;
                 }
                 100% {
-                  color: #ff00bf;
+                  color: #FF007F;
                 }
               }
 
@@ -68,24 +68,24 @@ body {
 }
 
 @keyframes colorRotate {
-  from {
-    color: #ff0062;
-  }
-  10% {
-    color: #ffd000;
-  }
-  50% {
-    color: #51ff00;
-  }
-  75% {
-    color: #0011ff;
-  }
-  85% {
-    color: #b700ff;
-  }
-  100% {
-    color: #ff00bf;
-  }
+                from {
+                  color: #FF0000;
+                }
+                20% 
+                  color: #FF8000;
+                }
+                40% 
+                  color: #FFFF00;
+                }
+                60% 
+                  color: #0000FF;
+                }
+                80% 
+                  color: #7F00FF;
+                }
+                100% {
+                  color: #FF007F;
+                }
 }
 
 a {
@@ -111,22 +111,22 @@ a:focus {
 }
 
 @keyframes colorRotate {
-  from {
-    color: #ff0062;
-  }
-  10% {
-    color: #ffd000;
-  }
-  50% {
-    color: #51ff00;
-  }
-  75% {
-    color: #0011ff;
-  }
-  85% {
-    color: #b700ff;
-  }
-  100% {
-    color: #ff00bf;
-  }
+                from {
+                  color: #FF0000;
+                }
+                20% 
+                  color: #FF8000;
+                }
+                40% 
+                  color: #FFFF00;
+                }
+                60% 
+                  color: #0000FF;
+                }
+                80% 
+                  color: #7F00FF;
+                }
+                100% {
+                  color: #FF007F;
+                }
 }
