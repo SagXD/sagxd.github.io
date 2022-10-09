@@ -30,22 +30,19 @@ body {
               
               @keyframes colorRotate {
                 from {
-                  color: #FF0000;
+                  color: #6666ff;
                 }
-                20% {
-                  color: #fffb00;
+                25% {
+                  color: #0099ff;
                 }
-                40% {
-                  color: #33ff00;
+                50% {
+                  color: #00ff00;
                 }
-                60% {
-                  color: #0000FF;
-                }
-                80% {
-                  color: #7F00FF;
+                75% {
+                  color: #ff3399;
                 }
                 100% {
-                  color: #FF007F;
+                  color: #6666ff;
                 }
               }
 
@@ -69,22 +66,19 @@ body {
 /* fuck u */
 @keyframes colorRotate {
   from {
-    color: #FF0000;
+    color: #6666ff;
   }
-  20% {
-    color: #fffb00;
+  25% {
+    color: #0099ff;
   }
-  40% {
-    color: #33ff00;
+  50% {
+    color: #00ff00;
   }
-  60% {
-    color: #0000FF;
-  }
-  80% {
-    color: #7F00FF;
+  75% {
+    color: #ff3399;
   }
   100% {
-    color: #FF007F;
+    color: #6666ff;
   }
 
 }
@@ -113,21 +107,18 @@ a:focus {
 
 @keyframes colorRotate {
   from {
-    color: #FF0000;
+    color: #6666ff;
   }
-  20% {
-    color: #fffb00;
+  25% {
+    color: #0099ff;
   }
-  40% {
-    color: #33ff00;
+  50% {
+    color: #00ff00;
   }
-  60% {
-    color: #0000FF;
-  }
-  80% {
-    color: #7F00FF;
+  75% {
+    color: #ff3399;
   }
   100% {
-    color: #FF007F;
+    color: #6666ff;
   }
 }
