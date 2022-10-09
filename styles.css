@@ -30,22 +30,22 @@ body {
               
               @keyframes colorRotate {
                 from {
-                  color: #FF0000;
+                  color: #ff0062;
                 }
-                20% 
-                  color: #FF8000;
+                10% {
+                  color: #ffd000;
                 }
-                40% 
-                  color: #FFFF00;
+                50% {
+                  color: #51ff00;
                 }
-                60% 
-                  color: #0000FF;
+                75% {
+                  color: #0011ff;
                 }
-                80% 
-                  color: #7F00FF;
+                85% {
+                  color: #b700ff;
                 }
                 100% {
-                  color: #FF007F;
+                  color: #ff00bf;
                 }
               }
 
@@ -68,24 +68,24 @@ body {
 }
 
 @keyframes colorRotate {
-                from {
-                  color: #FF0000;
-                }
-                20% 
-                  color: #FF8000;
-                }
-                40% 
-                  color: #FFFF00;
-                }
-                60% 
-                  color: #0000FF;
-                }
-                80% 
-                  color: #7F00FF;
-                }
-                100% {
-                  color: #FF007F;
-                }
+  from {
+    color: #ff0062;
+  }
+  10% {
+    color: #ffd000;
+  }
+  50% {
+    color: #51ff00;
+  }
+  75% {
+    color: #0011ff;
+  }
+  85% {
+    color: #b700ff;
+  }
+  100% {
+    color: #ff00bf;
+  }
 }
 
 a {
@@ -111,22 +111,22 @@ a:focus {
 }
 
 @keyframes colorRotate {
-                from {
-                  color: #FF0000;
-                }
-                20% 
-                  color: #FF8000;
-                }
-                40% 
-                  color: #FFFF00;
-                }
-                60% 
-                  color: #0000FF;
-                }
-                80% 
-                  color: #7F00FF;
-                }
-                100% {
-                  color: #FF007F;
-                }
+  from {
+    color: #ff0062;
+  }
+  10% {
+    color: #ffd000;
+  }
+  50% {
+    color: #51ff00;
+  }
+  75% {
+    color: #0011ff;
+  }
+  85% {
+    color: #b700ff;
+  }
+  100% {
+    color: #ff00bf;
+  }
 }
