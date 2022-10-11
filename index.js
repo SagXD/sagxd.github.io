@@ -1,4 +1,4 @@
-//I Am Geek
+//I Am Geek.
 window.addEventListener("mousemove", function (e) {
 	var to_append = document.getElementsByClassName('loader-container')[0];
 	var all = document.getElementsByClassName('loader-container');
