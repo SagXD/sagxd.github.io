@@ -123,6 +123,8 @@ a:focus {
   }
 }
 
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+@import 'compass/css3';
 
 @mixin keyframes($animationName) {
   @-webkit-keyframes #{"$animationName"} {
